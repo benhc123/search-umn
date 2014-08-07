@@ -48,4 +48,8 @@ To limit your search to people in a particular role, use `-r` or `--role`. The f
 
 	pip install beautifulsoup4
 	
+#License
+
+See [here](license)
+	
 *Note: I'm open to any commits that make this project faster, more efficient, easier to use, or more functional.*
